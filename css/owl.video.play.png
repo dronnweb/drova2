@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, intial-scale=1, max-scale=1">
+
+	<link href="css/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto:400,500,700&amp;subset=cyrillic" rel="stylesheet">
+    
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico">
+	<title>Доставляем колотые берёзовые дрова в Сергиев Посад, Пушкино, Дмитров, Мытищи, Щелково, Королев, Ивантеевка, Александров, Дубна, Киржач, Талдом, Лобня, Хотьково </title>
+
+</head>
+
+<body class="">
+
+	<div id="full-container">
+
+		<header id="header" class="style-1 anim-moveleft" data-scroll-index="0">
+
+			<div id="header-wrap">
+
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-5 col-md-6 col-sm-6 col-xs-12 text-center">
+
+							<a class="logo logo-header" href="">
+								<img src="images/logo.svg" data-logo-alt="images/logo.svg" alt="">
+							</a>
+
+						</div>
+                        
+                        <div class="col-lg-4 col-md-6 col-sm-6 hidden-xs">
+
+							
+								
+								<div class="header-meta">
+									<a class="tel" href="tel:+79262006092" style="font-weight:bold;">+7 926 200-60-92</a>
+								</div>						
+
+							
+                            
+                            <div class="">
+                            
+							</div>
+
+						</div>
+                        
+                        <div class="col-lg-3 visible-lg">
+
+							
+								
+								<div class="header-meta">
+									<a class="header-btn scroll-to btn small rounded colorful hover-white" href="#signup-now" style="font-weight:bold;">ЗАКАЗАТЬ ДРОВА</a>
+								</div>						
+
+							
+
+						</div>
+					</div>
+                    
+                    <div class="row visible-xs">
+                    
+                    <div class="col-xs-12">
+
+							
+								
+								<div class="text-center">
+									<a class="tel" href="tel:+79262006092" style="font-weight:bold;">+7 926 200-60-92</a>
+								</div>						
+
+							
+                            
+                            <div class="">
+                            
+							</div>
+
+						</div>
+                    
+                    </div>
+                    
+                    
+                    
+				</div>
+
+				<div id="mobile-menu-wrap">
+					
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<div id="mobile-menu"></div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+
+		</header>
+
+
+
+
+
+
+
+
+
+
+		<section id="banner" data-scroll-index="0">
+
+			<div class="banner-parallax">
+				<img src="images/fon-slide.jpg" alt="">
+				<div class="overlay-colored" data-bg-color="#000" data-bg-color-opacity="0.0"></div>
+				<div class="slide-content">
+
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6">
+
+								<div class="banner-center-box text-white">
+									<h1 class="anim-movebottom-seq">
+										Доставка колотых дров<br>
+                                        по Московской области
+										
+									</h1>
+									<div class="description anim-movebottom-seq">
+										<strong>Доставляем берёзовые дрова в Сергиев Посад,
+                                        Пушкино, Дмитров, Мытищи, Щелково, Королев,
+                                        Ивантеевка, Александров, Дубна, Киржач, 
+                                        Талдом, Лобня, Хотьково и т.д.</strong>
+									</div>
+									
+								</div>
+
+							</div>
+                            
+							<div class="col-md-6">
+
+								<div class="banner-center-box text-white" style="text-align:center;">
+										<img src="images/mashina.png" alt="">								
+								</div>
+
+							</div>
+                            
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+		</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<section id="content">
+
+			<div id="content-wrap">
+
+				<div id="our-services" class="flat-section" data-scroll-index="1">
+
+					<div class="section-content">
+
+						<div class="container">
+							<div class="row">
+								<div class="col-md-4 text-center">
+								
+									<img src="images/inf-1.jpg" alt="">
+                                    <h2>ТОЧНЫЕ<br>ОБЪЁМЫ</h2>
+
+								</div>
+                                
+                                <div class="col-md-4 text-center">
+								
+									<img src="images/inf-2.jpg" alt="">
+                                    <h2>ДОСТАВКА<br>ЗА 3 ЧАСА</h2>
+
+								</div>
+                                
+                                <div class="col-md-4 text-center">
+								
+									<img src="images/inf-3.jpg" alt="">
+                                    <h2>ЛЮБЫЕ РАЗМЕРЫ<br>20 - 60 СМ</h2>
+
+								</div>
+								
+							</div>
+						</div>
+                        
+
+					</div>
+
+				</div>
+
+
+
+<div class="flat-section" data-scroll-index="4">
+
+					<div class="section-content">
+
+						<div class="container">
+							<div class="row">
+								<div class="col-md-12">
+								
+									<div class="section-title text-center">
+										<h2>ПРИВЕЗЁМ ТОЧНЫЙ ОБЪЁМ</h2>
+										<p class="podzag hidden-xs">
+											Сколько Вы заказали – столько и будет в Вашей поленнице!
+										</p>
+									</div>
+								
+								</div>
+							</div>
+                            
+                            <div class="row">
+                            
+								<div class="col-md-8">
+										<h3 class="kr">1. Возим только укладкой</h3>
+										<p>
+											Дрова мы возим только плотной укладкой в кузове. Мы тщательно отбираем дрова и аккуратно укладываем их полено к полену. На укладку 1 куба дров в кузов уходит у нашего персонала примерно 10 минут.
+										</p>
+                                        
+                                        <h3 class="kr">2. Нужный объём в поленнице</h3>
+										<p>
+											Наша цель - уложить в кузове дрова настолько плотно, чтобы в Вашей поленнице было столько дров, сколько Вы у нас заказали. Мы работаем честно и качественно. Мы сделаем всё, чтобы Вы захотели стать нашим постоянным клиентом.
+										</p>
+                                        
+                                        
+								</div>
+                                
+                                <div class="col-md-4 text-center">
+                                <img src="images/polenica.png" alt="">
+                                </div>
+                                
+
+
+							</div>
+                            
+                            
+						</div>
+
+					</div>
+
+				</div>
+                
+                
+                
+                
+                
+                <div class="flat-section" data-scroll-index="1">
+
+					<div class="section-content" style="background: #f4f4f4;">
+
+						<div class="container">
+							<div class="row">
+								<div class="col-md-12 text-center">
+								
+									<img src="images/3-chasa.png" alt="">
+
+								</div>
+								
+							</div>
+						</div>
+                        
+
+					</div>
+
+				</div>
+                
+                
+                
+                
+                
+                
+                
+               <div class="flat-section" data-scroll-index="4">
+
+					<div class="section-content" style="background: #f4f4f4;">
+
+						<div class="container">
+							<div class="row">
+								<div class="col-md-12">
+								
+									<div class="text-center mb-0">
+										<h2 class="kr">ЛЮБОЙ РАЗМЕР ПОЛЕНА</h2>
+										<p class="podzag hidden-xs">
+											Наколим дрова под нужный размер с высокой точностью!
+										</p>
+									</div>
+								
+								</div>
+
+							</div>
+                            
+                            <div class="row">
+                            
+								<div class="col-md-4 text-center">
+                                
+									<img src="images/kolka-1.jpg" alt="">
+                                    <h3>Крупная колка</h3>          
+                                        
+								</div>
+                                
+                                <div class="col-md-4 text-center">
+                                
+									<img src="images/kolka-2.jpg" alt="">
+                                    <h3>Средняя колка</h3>          
+                                        
+								</div>
+                                
+                                <div class="col-md-4 text-center">
+                                
+									<img src="images/kolka-3.jpg" alt="">
+                                    <h3>Мелкая колка</h3>          
+                                        
+								</div>
+
+                                
+
+
+							</div>
+                            
+                            
+						</div>
+
+					</div>
+
+				</div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <div class="flat-section" data-scroll-index="4">
+
+					<div class="section-content">
+
+						<div class="container">
+							<div class="row">
+								<div class="col-md-12">
+								
+									<div class="section-title text-center">
+										<h2>БЕРЕЗОВЫЕ ДРОВА</h2>
+										<p class="podzag hidden-xs">
+											Сколько Вы заказали – столько и будет в Вашей поленнице!
+										</p>
+									</div>
+								
+								</div>
+
+							</div>
+                            
+                            <div class="row">
+                            
+								<div class="col-md-8">
+										<h3 class="kr">Древесина берёзы</h3>
+										<p>
+											Это отличные дрова, особенно любимые в качестве топлива для каминов. С теплотворной способностью 1900 кВт•ч/м³ она хорошо горит. Из-за высокой плотности её рекомендуется сушить около 1,5 лет. 
+										</p>
+                                        
+                                        <h3 class="kr">Сухие берёзовые дрова</h3>
+										<p>
+											Относительно быстро горят красивым голубоватым пламенем. Так как они почти не искрят и выделяют приятный запах из-за содержащихся в древесине берёзы эфирных масел, они также очень хороши для открытого камина.
+										</p>
+                                        
+                                        
+								</div>
+                                
+                                <div class="col-md-4 text-center">
+                                <img src="images/drova.jpg" alt="">
+                                <h5>Березовые дрова от 1500 руб. за куб</h5>
+                                </div>
+                                
+
+
+							</div>
+                            
+                            
+						</div>
+
+					</div>
+
+				</div> 
+                
+                
+                
+                
+                
+                
+                
+                
+                <div class="flat-section" data-scroll-index="4">
+
+					<div class="section-content" style="background: #f4f4f4;">
+
+						<div class="container">
+							<div class="row">
+								<div class="col-md-12">
+								
+									<div class="text-center mb-50">
+										<h2>ВИДЫ ДРОВ И ЦЕНЫ В СЕРГИЕВО-ПОСАДСКОМ РАЙОНЕ</h2>
+										<p class="podzag hidden-xs">
+											Сколько Вы заказали – столько и будет в Вашей поленнице!
+										</p>
+									</div>
+								
+								</div>
+								
+							</div>
+                            
+                            <div class="row">
+                            
+								<div class="col-md-4 text-center mb-30">
+                                
+									<h3>ОСИНОВЫЕ ДРОВА</h3>  
+                                    <img src="images/01-osina.jpg" alt="">
+                                    <p style="font-size:20px;line-height: 33px;">Колотые дрова<br>
+                                    <span style="font-size:33px;">1500</span> руб./куб</p>          
+                                        
+								</div>
+                                
+                                <div class="col-md-4 text-center mb-30">
+                                
+									<h3>ОЛЬХОВЫЕ ДРОВА</h3>  
+                                    <img src="images/02-olha.jpg" alt="">
+                                    <p style="font-size:20px;line-height: 33px;">Колотые дрова<br>
+                                    <span style="font-size:33px;">1500</span> руб./куб</p>           
+                                        
+								</div>
+                                
+                                <div class="col-md-4 text-center mb-30">
+                                
+									<h3>ДУБОВЫЕ ДРОВА</h3>  
+                                    <img src="images/03-dub.jpg" alt="">
+                                    <p style="font-size:20px;line-height: 33px;">Колотые дрова<br>
+                                    <span style="font-size:33px;">1700</span> руб./куб</p>           
+                                        
+								</div>
+
+                                
+
+
+							</div>
+                            
+                            
+                            <div class="row">
+								<div class="col-md-12">
+								
+									<div class="text-center">
+										<p>
+											<strong>Есть смешанные дрова - 1500 руб/куб. Есть еловые дрова для розжига печи - 800 руб/куб.</strong>
+										</p>
+									</div>
+								
+								</div>
+								
+							</div>
+                            
+                            
+						</div>
+
+					</div>
+
+				</div>
+                
+                
+                
+                
+
+
+
+
+
+
+
+
+
+
+				<div id="signup-now" class="flat-section" data-scroll-index="4">
+
+					<div class="section-content">
+
+						<div class="container">
+							<div class="row">
+								<div class="col-md-12">
+								
+									<div class="section-title text-center">
+										<h2>Где купить дрова в Сергиево-Посадском районе?</h2>
+										<p>
+											Есть вопросы? Звоните! Ежедневно с 8:00 до 22:00. Наш телефон  +7 926 200-60-92
+										</p>
+									</div>
+								
+								</div>
+								<div class="col-md-12 text-center">
+								
+									<div class="box-signup-form bs-form-2 anim-movebottom-seq">
+										<form id="signup-form-1" class="form-inline">
+											<div class="form-group">
+												<input type="text" name="sf1Name" id="sf1Name" class="form-control" placeholder="Ваше имя">
+											</div><!-- .form-group end -->
+											<div class="form-group">
+												<input type="text" name="sf1Email" id="sf1Email" class="form-control" placeholder="Телефон или email">
+											</div><!-- .form-group end -->
+											<div class="form-group">
+												<input type="text" name="sf1PhoneNum" id="sf1PhoneNum" class="form-control" placeholder="Когда удобнее позвонить">
+											</div><!-- .form-group end -->
+											<div class="form-group">
+												<input type="submit" class="form-control" value="ЗАКАЗАТЬ ДРОВА">
+											</div><!-- .form-group end -->
+										</form><!-- #signup-form-1 end -->
+										<span class="form-note"><i class="fa fa-info-circle"></i>We will never share your personal info</span>
+									</div>
+								
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+				</div>
+                
+                
+                
+                
+ <script src="http://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
+    <script type="text/javascript">
+
+ var myMap;
+
+ymaps.ready(init);
+
+function init () {
+    myMap = new ymaps.Map('map', {
+        center: [56.37828720, 38.10531350 ], 
+        zoom: 13,
+		controls: ['zoomControl', 'typeSelector',  'fullscreenControl']
+    }, {
+        searchControlProvider: 'yandex#search'
+    }),
+	
+        myGeoObject = new ymaps.GeoObject({
+            geometry: {
+                type: "Point",
+                coordinates: [56.37828720, 38.10531350 ]
+            },
+            properties: {
+                iconContent: '',
+                hintContent: '',
+				balloonContent: 'Березовые дрова с доставкой по Московской области'
+            }
+        }, {
+            preset: 'islands#icon',
+			iconColor: '#b0062e'
+        });
+		
+	  myMap.behaviors.disable('scrollZoom');
+	
+	  myMap.geoObjects
+        .add(myGeoObject);
+}
+    </script>               
+                
+                
+                
+                <div id="map" class="flat-section" data-scroll-index="4" style="height:400px;">
+
+
+				</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+
+		</section>
+
+
+
+
+
+
+
+
+
+		<footer id="footer-mini" style="background: #f4f4f4;">
+
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+
+						<h2><a class="tel kr" href="tel:+79262006092">+7 926 200-60-92</a></h2>
+						<div class="copyrights-message">©2018 <strong>Березовые дрова</strong> с доставкой по Московской области.</div>
+
+					</div>
+				</div>
+			</div>
+
+		</footer>
+
+	</div>
+
+	<a class="scroll-top-icon scroll-top" href="#"><i class="fa fa-angle-up"></i></a>
+
+
+	<script src="js/jquery.js"></script>
+	<script src="js/jRespond.min.js"></script>
+	<script src="js/jquery.easing.min.js"></script>
+	<script src="js/jquery.waitforimages.min.js"></script>
+	<script src="js/jquery.fitvids.js"></script>
+	<script src="js/jquery.waypoints.min.js"></script>
+	<script src="js/jquery.stellar.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.mb.YTPlayer.min.js"></script>
+	<script src="js/hoverIntent.js"></script>
+	<script src="js/simple-scrollbar.min.js"></script>
+	<script src="js/superfish.js"></script>
+	<script src="js/scrollIt.min.js"></script>
+	<script src="js/jquery.pointpoint.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/jquery.validate.min.js"></script>
+	<script src='js/functions.js'></script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter48520451 = new Ya.Metrika({
+                    id:48520451,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/48520451" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</body>
+</html>
